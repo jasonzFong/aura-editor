@@ -1,5 +1,3 @@
-# Aura
-
 <div align="center">
   <!-- <img src="docs/images/logo.png" alt="Aura Logo" width="120" /> -->
   <h1>Aura</h1>
